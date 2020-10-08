@@ -6,7 +6,7 @@ const client = new Discord.Client({partials:["MESSAGE","CHANNEL","REACTION"]})
 
 client.once("ready", ()=>{
 	console.log("bot running")
-	client.user.setActivity("Beatso", {type:"LISTENING"})
+	client.user.setPresence({status:"dnd"})
 })
 client.login(process.env.bottoken)
 
