@@ -1,3 +1,5 @@
+# Pinn
+
 With this bot, anyone can get a message to be pinned, on any channel that they have add reactions permission to, and the bot has manage messages permission.
 
 To pin a message, react to that message with :pushpin:. To unpin it, react with :no_entry_sign:. Note the bot can only unpin messages that it has pinned.
