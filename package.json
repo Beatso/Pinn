@@ -16,7 +16,7 @@
 	"bugs": {
 		"url": "https://github.com/Beatso/Pinn/issues"
 	},
-	"homepage": "https://github.com/Beatso/Pinn#readme",
+	"homepage": "https://github.com/Beatso/Pinn/blob/main/readme.md",
 	"dependencies": {
 		"discord.js": "^12.3.1",
 		"dotenv": "^8.2.0",
