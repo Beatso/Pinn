@@ -1,0 +1,19 @@
+{
+  "name": "pinn",
+  "version": "1.0.0",
+  "description": "A discord bot so everyone on your server can pin messages, without being given the manage messages permission.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beatso/Pinn.git"
+  },
+  "author": "Beatso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Beatso/Pinn/issues"
+  },
+  "homepage": "https://github.com/Beatso/Pinn#readme"
+}
