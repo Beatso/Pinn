@@ -8,4 +8,6 @@ Because anyone can pin messages, this bot is only recommended for private discor
 If you would not like the bot to work on announcement channels etc., remove the permission Manage Messages from that channel.
 
 **Invite to your server**: https://discord.com/oauth2/authorize?client_id=763842999573544981&scope=bot&permissions=8192  
+**This bot on top.gg**: https://top.gg/bot/763842999573544981  
+**This bot on discord.bots.gg**: https://top.gg/bot/763842999573544981
 **Contact me on discord**: Beatso#1815
