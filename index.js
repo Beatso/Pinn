@@ -1,6 +1,5 @@
 const Discord = require("discord.js")
 require("dotenv").config()
-const express = require("express")
 
 const client = new Discord.Client({partials:["MESSAGE","CHANNEL","REACTION"]})
 
