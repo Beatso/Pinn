@@ -36,4 +36,4 @@ client.on("messageReactionAdd", async (reaction, user) => {
 // webserver to keep alive
 const server = express()
 server.all("/keepalive", (req,res) => res.send("Bot woken"))
-server.listen(3000, ()=>console.log("server running"))
+server.listen(3650, ()=>console.log("server running"))
